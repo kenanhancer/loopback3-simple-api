@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "coffeeShop": 2
+  },
+  "models": {
+    "coffeeShop": {
+      "1": "{\"name\":\"string\",\"city\":\"string\",\"id\":1}"
+    }
+  }
+}
