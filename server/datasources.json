@@ -4,5 +4,15 @@
     "localStorage": "",
     "file": "server/myData.json",
     "connector": "memory"
+  },
+  "mysqlDs": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "url": "",
+    "database": "coffeeDB",
+    "password": "password",
+    "name": "mysqlDs",
+    "user": "root",
+    "connector": "mysql"
   }
 }
