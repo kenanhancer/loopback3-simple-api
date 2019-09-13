@@ -14,5 +14,16 @@
     "name": "mysqlDs",
     "user": "root",
     "connector": "mysql"
+  },
+  "mongodbDs": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "url": "",
+    "database": "coffeeDB",
+    "password": "",
+    "name": "mongodbDs",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
   }
 }
