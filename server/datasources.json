@@ -25,5 +25,14 @@
     "user": "",
     "useNewUrlParser": true,
     "connector": "mongodb"
+  },
+  "redisDs": {
+    "host": "127.0.0.1",
+    "port": 6379,
+    "url": "",
+    "password": "",
+    "name": "redisDs",
+    "db": 0,
+    "connector": "kv-redis"
   }
 }
