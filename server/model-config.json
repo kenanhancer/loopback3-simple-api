@@ -24,5 +24,12 @@
   "coffeeShopMongodb": {
     "dataSource": "mongodbDs",
     "public": true
+<<<<<<< HEAD
+=======
+  },
+  "coffeeShopRedis": {
+    "dataSource": "redisDs",
+    "public": true
+>>>>>>> redis
   }
 }

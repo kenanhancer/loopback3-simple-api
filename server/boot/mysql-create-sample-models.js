@@ -19,7 +19,7 @@ module.exports = async function (app) {
     city: 'Vancouver',
   }]);
 
-  console.log('Models created: \n', coffeeShops);
+  console.log('MySQL Models created: \n', coffeeShops);
 };
 
 //Sync Version
