@@ -34,5 +34,15 @@
     "name": "redisDs",
     "db": 0,
     "connector": "kv-redis"
+  },
+  "oracleDs": {
+    "host": "127.0.0.1",
+    "port": 1521,
+    "database": "xepdb1",
+    "password": "Pass_123456",
+    "name": "oracleDs",
+    "tns": "",
+    "user": "system",
+    "connector": "oracle"
   }
 }

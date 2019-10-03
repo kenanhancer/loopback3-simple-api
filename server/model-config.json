@@ -28,5 +28,9 @@
   "coffeeShopRedis": {
     "dataSource": "redisDs",
     "public": true
+  },
+  "coffeeShopOracle": {
+    "dataSource": "oracleDs",
+    "public": true
   }
 }

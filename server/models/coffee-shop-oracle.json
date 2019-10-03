@@ -1,0 +1,16 @@
+{
+  "name": "coffeeShopOracle",
+  "base": "coffeeShop",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true,
+    "oracle": {
+      "table": "COFFEESHOP"
+    }
+  },
+  "properties": {},
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
