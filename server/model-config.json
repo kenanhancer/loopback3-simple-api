@@ -20,5 +20,13 @@
   "coffeeShopMySql": {
     "dataSource": "mysqlDs",
     "public": true
+  },
+  "coffeeShopMongodb": {
+    "dataSource": "mongodbDs",
+    "public": true
+  },
+  "coffeeShopRedis": {
+    "dataSource": "redisDs",
+    "public": true
   }
 }
